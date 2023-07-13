@@ -12,3 +12,5 @@ This repository contains a console application developed in C# for generating HL
 - Utilize the "Bogus" package to generate realistic fake patient data.
 - Use the "HL7.Dotnetcore" package for building HL7 messages following the HL7 standard.
 - Customize the number of HL7 files to generate.
+
+Note: The generated HL7 ADT files are for demonstration and testing purposes only and should not be used in a production environment without proper validation and integration with relevant systems.
